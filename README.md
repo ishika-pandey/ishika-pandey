@@ -16,9 +16,13 @@ Behavioral AI & Video Analysis 🔍
 Using AI to understand human behavior, one frame at a time—combining computer vision and psychology to build models that interpret actions and intentions.
 
 🛠️ Tech Stack & Skills:
+
 Languages: Python, JavaScript, HTML, CSS
+
 Frameworks & Libraries: PyTorch, OpenCV
+
 Areas of Interest: AI & Machine Learning, Deep Learning, Web Development
+
 Tools: Git, GitHub, Jupyter, VS Code
 
 ✨ **Fun Fact**  
