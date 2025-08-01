@@ -31,9 +31,9 @@ Tools: Git, GitHub, Jupyter, VS Code
 I’m a big believer that **“Learning is a journey, not a destination.”**
 
 🤝 Let’s Collaborate!
-Interested in AI, ML, or just want to brainstorm some groundbreaking ideas? Feel free to reach out! I’m always open to connecting with fellow tech enthusiasts and making cool stuff together.
+Feel free to reach out! I’m always open to connecting with fellow tech enthusiasts and making cool stuff together.
 
-🌱 Stay curious, keep coding, and let’s change the world, one line of code at a time!
+
 
 
 
