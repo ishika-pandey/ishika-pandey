@@ -11,7 +11,7 @@ Image Classification & Deep Learning 🧠
 Tackling complex visual data with PyTorch, building models that see the unseen. My projects range from image classification to advanced computer vision work, constantly evolving with attention mechanisms and more.
 
 Full-Stack Web Development 🌐
-Creating responsive, user-centered web apps with HTML, CSS, JavaScript, and beyond.
+Creating responsive, user-centered web apps with HTML, CSS, JavaScript.
 
 Behavioral AI & Video Analysis 🔍
 Using AI to understand human behavior, one frame at a time—combining computer vision and psychology to build models that interpret actions and intentions.
@@ -26,7 +26,7 @@ Areas of Interest: AI & Machine Learning, Deep Learning, Web Development
 
 Tools: Git, GitHub, Jupyter, VS Code
 
-✨ **Fun Fact**  
+✨ 
 I’m a big believer that **“Learning is a journey, not a destination.”**
 
 🤝 Let’s Collaborate!
