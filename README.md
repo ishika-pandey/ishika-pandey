@@ -2,7 +2,7 @@
 # Hey there! 👋 I'm Ishika
 Welcome to my GitHub corner!
 
-🚀 About Me
+### 🚀 About Me
 I’m a **Final Year Computer Science and Engineering Student** bringing ideas to life through **AI, Machine Learning, and Web Development**. From diving into neural networks to designing interactive web experiences, I’m always driven to discover new ways to push the boundaries of innovation and possibility.
 
 🔭 What I'm Working On:
